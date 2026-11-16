@@ -1,0 +1,8 @@
+/* ASAS OMRANIA — shared brand tokens for website pages and print brochures. */
+:root{
+  --navy:oklch(19.61% 0.1126 275.42);
+  --accent:oklch(70.19% 0.1970 46.03);
+  --fg:var(--navy);
+  --font-display:'Changa','Segoe UI',sans-serif;
+  --font-body:var(--font-display);
+}
